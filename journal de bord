@@ -1,3 +1,10 @@
 séance 1 & 2 : caméra (abandon)
 séance 3 : nunchuk, lecture docs techniques, recuperation trame (ne marche pas)
 séance 4 : recuperation trame, affichage valeurs joystick, boutons
+séance 5 : recuperation des données du nunchuk validées passage en os temps réel
+séance 6 : passage en os temps réel validé transmission en bluetooth des données du nunchuk
+séance 7 : Problème de connexion entre deux modules bluetooth, commandes AT ne marchent pas
+séance 8 : Utilisation de carte interface pc et module bluetooth pour voir la bonne transmission des commandes AT
+séance 9 : Module maitre ne repond pas nos commandes AT (abandon bluetooth)
+séance 10 : transmission avec module wifi, configuration du routeur ,envoit de simple donnée
+séance 11 : envoit des données la nunchuk en wifi validé
